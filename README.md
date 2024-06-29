@@ -30,7 +30,7 @@
 
 
 
-###Project Overview
+### Project Overview
 
 The Smartphone dataset comprises 210 rows and 26 columns, detailing various attributes of different smartphone models from multiple brands. The dataset includes information such as price, rating, 5G and NFC support, processor details, battery capacity, and camera specifications. This report presents an analysis of the dataset through ten different visualizations, offering insights into the trends and distributions of key features.
 
@@ -67,27 +67,27 @@ Primary Rear Camera Resolution Distribution
 Observation: The primary rear camera resolutions vary, with a significant number of smartphones featuring high-resolution cameras (around 48MP to 64MP), catering to the demand for high-quality photography.
 
 
-###Data Source
+### Data Source
 
 
 
-###Tools
+### Tools
 
 
 
-###Data Cleaning/Preparation
+### Data Cleaning/Preparation
 
 
 
-###Exploration Data Analysis
+### Exploration Data Analysis
 
 
 
-###Data Analysis
+### Data Analysis
 
 
 
-###Recommendations
+### Recommendations
 
 
 
