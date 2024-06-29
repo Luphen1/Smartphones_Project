@@ -40,7 +40,7 @@ The Smartphone dataset comprises 210 rows and 26 columns, detailing various attr
 
 
 ### Data Source
-
+The primary dataset utilized for this project was downloaded from the provided link [smartphones-dataset ](https://www.kaggle.com/datasets/informrohit1/smartphones-dataset)
 
 
 ### Tools
