@@ -44,10 +44,23 @@ The primary dataset utilized for this project was downloaded from the provided l
 
 
 ### Tools
-
+Python was utilized for importing and inspecting the dataset, checking for duplicate records, and identifying null values to standardize the dataset for data quality assurance.
 
 
 ### Data Cleaning/Preparation
+EDA involved exploring   smartphones dataset to answer key questions such as:
+
+1.	What are the smartphone prices across the top ten brands?
+2.	Are there any correlations between the price of a smartphone and its battery capacity, RAM capacity, internal memory, as well as the correlation between price and rating?
+3.	What are the price distributions across the dataset?
+4.	What percentage of smartphones have fast charging available?
+5.	How does the processor brand impact performance and rating?
+6.	What are the performance differences among different operating systems?
+7.	How does processor speed and the number of cores vary across different processor brands?
+8.	What are the top five average prices of smartphone models with 5G?
+9.	What are the top five average prices of smartphone models without 5G?
+10.	Are there any relationships between smartphone cameras?
+11.	Are there any relationships between smartphone screen resolution width and height?
 
 
 
