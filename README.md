@@ -48,6 +48,11 @@ Python was utilized for importing and inspecting the dataset, checking for dupli
 
 
 ### Data Cleaning/Preparation
+
+
+
+
+### Exploration Data Analysis
 EDA involved exploring   smartphones dataset to answer key questions such as:
 
 1.	What are the smartphone prices across the top ten brands?
@@ -61,11 +66,6 @@ EDA involved exploring   smartphones dataset to answer key questions such as:
 9.	What are the top five average prices of smartphone models without 5G?
 10.	Are there any relationships between smartphone cameras?
 11.	Are there any relationships between smartphone screen resolution width and height?
-
-
-
-### Exploration Data Analysis
-
 
 
 ### Data Analysis
