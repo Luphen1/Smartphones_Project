@@ -55,6 +55,8 @@ In the initial data preparation, I performed the following tasks below:
 3. Checking for duplicate values.
 4. Handling Inconsistent data and typos.
 5. Checked and handled outliers using the interquartile range (IQR) method, and visualized the price column using a boxplot to identify outliers in the dataframe.
+6. Handled null values by replacing them with the mean of the respective columns.
+7. Replaced unknown values in the "processor brand" column where there were null strings.
 
 
 
