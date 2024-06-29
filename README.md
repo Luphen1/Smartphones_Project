@@ -77,7 +77,6 @@ EDA involved exploring   smartphones dataset to answer key questions such as:
 11.	Are there any relationships between smartphone screen resolution width and height?
 
 
-### Data Analysis
 
 
 ### Results/Findings
