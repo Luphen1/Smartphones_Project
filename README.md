@@ -48,6 +48,13 @@ Python was utilized for importing and inspecting the dataset, checking for dupli
 
 
 ### Data Cleaning/Preparation
+In the initial data preparation, I performed the following tasks below:
+
+1. Data loading and inspection.
+2. Handling for missing values.
+3. Checking for duplicate values.
+4. Handling Inconsistent data and typos.
+5. Checked and handled outliers using the interquartile range (IQR) method, and visualized the price column using a boxplot to identify outliers in the dataframe.
 
 
 
