@@ -69,10 +69,10 @@ EDA involved exploring   smartphones dataset to answer key questions such as:
 3.	What are the price distributions across the dataset?
 4.	What percentage of smartphones have fast charging available?
 5.	How does the processor brand impact performance and rating?
-6.	What are the performance differences among different operating systems?
+6.	What were the performance differences among different operating systems?
 7.	How does processor speed and the number of cores vary across different processor brands?
-8.	What are the top five average prices of smartphone models with 5G?
-9.	What are the top five average prices of smartphone models without 5G?
+8.	What were the top five average prices of smartphone models with 5G?
+9.	What were the top five average prices of smartphone models without 5G?
 10.	Are there any relationships between smartphone cameras?
 11.	Are there any relationships between smartphone screen resolution width and height?
 
