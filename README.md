@@ -23,10 +23,7 @@
 -  [Data Analysis](#Data_Analysis)
   
 
--  [Results/Findings](#Results/Findings)
-  
 
--  [Recommendations](#Recommendations)
 
 
 
@@ -79,13 +76,6 @@ EDA involved exploring   smartphones dataset to answer key questions such as:
 
 
 
-### Results/Findings
-
-
-
-
-
-### Recommendations
 
 
 
